@@ -13,7 +13,7 @@ namespace Employee
     public partial class WebForm1 : System.Web.UI.Page
     {
 
-        string TNS = "server=localhost;user id = root;database=schema1;Password=shinicii";
+        string TNS = "server=localhost;user id = root;database=schema1;Password=password";
         protected void Page_Load(object sender, EventArgs e)
         {
             try
